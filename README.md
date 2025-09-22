@@ -12,9 +12,9 @@ cd Gameirys
 
 2. Install Dependencies
 
-pip install -r requirements.txt
-# or for Python 3 specifically
-pip3 install -r requirements.txt
+	pip install -r requirements.txt
+	# or for Python 3 specifically
+	pip3 install -r requirements.txt
 
 
 nano accounts.txt
