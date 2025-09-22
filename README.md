@@ -1,8 +1,16 @@
-RUN script Auto game irys
+📋 Requirements
 
+- Python: Version 3.9 or higher
+- pip: Latest version recommended
+
+🛠 Installation
+
+1. Clone the Repository
 
 git clone https://github.com/Jabriksky/Gameirys.git
-cd Gmaeirys
+cd Gameirys
+
+2. Install Dependencies
 
 pip install -r requirements.txt
 # or for Python 3 specifically
